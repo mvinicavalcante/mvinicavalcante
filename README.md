@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho com Front-End
 - 🌱 Ciências da Computação, Universidade Federal do Agreste de Pernambuco
+- 📚 Técnico em Informática, Instituto Federal de Pernambuco
 - 📫 Contate-me no e-mail: mvinic2011@gmail.com
 
 <div align="center">
