@@ -1,6 +1,7 @@
 ## Opa,  eu sou Marcos Vinícius Cavalcante!
 
 - 🔭 Full-Stack Developer
+- 🧮 Estudando Kotlin
 - 🌱 Ciências da Computação, Universidade Federal do Agreste de Pernambuco
 - 📚 Técnico em Informática, Instituto Federal de Pernambuco
 - 📫 Contate-me no e-mail: mvinic2011@gmail.com
