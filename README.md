@@ -1,6 +1,6 @@
 ## Opa,  eu sou Marcos Vinícius Cavalcante!
 
-- 🔭 Full-Stack Developer
+- 🔭 Front-End Developer
 - 🧮 Estudando Kotlin
 - 🌱 Ciências da Computação, Universidade Federal do Agreste de Pernambuco
 - 📚 Técnico em Informática, Instituto Federal de Pernambuco
