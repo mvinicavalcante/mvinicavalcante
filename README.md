@@ -1,10 +1,10 @@
-## Opa,  eu sou Marcos Vinícius Cavalcante!
+## Hey, I'm Marcos Vinícius Cavalcante!
 
 - 🔭 Full-Stack Developer
-- 💙 Desenvolvedor Full-Stack na Show Tecnologia 
-- 🌱 Ciências da Computação, Universidade Federal do Agreste de Pernambuco
-- 📚 Técnico em Informática, Instituto Federal de Pernambuco
-- 📫 Contate-me no e-mail: mvinic2011@gmail.com
+- 💙 Full-Stack Developer at Show Tecnologia
+- 🌱 Computer Science, Universidade Federal do Agreste de Pernambuco
+- 📚 Computer Technician, Instituto Federal de Pernambuco
+- 📫 Contact me on email: mvinic2011@gmail.com
 
 <div align="center">
   <a href="https://github.com/mvinicavalcante">
@@ -13,10 +13,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="MV-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="MV-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="MV-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MV-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="MV-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="MV-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="MV-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="MV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="MV-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
