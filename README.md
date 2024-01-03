@@ -1,6 +1,6 @@
 ## Hey, I'm Marcos Vinícius Cavalcante!
 
-- 🔭 Full-Stack Developer
+- 🔭 Full-Stack and Mobile Developer
 - 💙 Full-Stack Developer at Show Tecnologia
 - 🌱 Computer Science, Universidade Federal do Agreste de Pernambuco
 - 📚 Computer Technician, Instituto Federal de Pernambuco
