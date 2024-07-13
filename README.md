@@ -1,6 +1,5 @@
 ## Hey, I'm Marcos Vinícius Cavalcante!
 
-- 🔭 Full-Stack and Mobile Developer
 - 💙 Back-End Developer at Dolado
 - 🌱 Computer Science, Universidade Federal do Agreste de Pernambuco
 - 📚 Computer Technician, Instituto Federal de Pernambuco
