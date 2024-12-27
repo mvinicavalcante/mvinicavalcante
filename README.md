@@ -1,7 +1,7 @@
 ## Hey, I'm Marcos Vinícius Cavalcante!
 
 - 💙 Back-End Developer at Dolado
-- 🌱 Computer Science, Universidade Federal do Agreste de Pernambuco
+- 🌱 Graduating in Software Engineering
 - 📚 Computer Technician, Instituto Federal de Pernambuco
 - 📫 Contact me on email: mvinic2011@gmail.com
 
