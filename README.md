@@ -1,6 +1,6 @@
 ## Hey, I'm Marcos Vinícius Cavalcante!
 
-- 💙 Back-End Developer at Dolado
+- 💙 Back-End Developer at Dersalis
 - 🌱 Graduating in Software Engineering
 - 📚 Computer Technician, Instituto Federal de Pernambuco
 - 📫 Contact me on email: mvinic2011@gmail.com
