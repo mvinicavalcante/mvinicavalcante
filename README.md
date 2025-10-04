@@ -1,6 +1,6 @@
 ## Hey, I'm Marcos Vinícius Cavalcante!
 
-- 💙 Back-End Developer at Dersalis
+- 💙 Back-End Developer
 - 🌱 Graduating in Software Engineering
 - 📚 Computer Technician, Instituto Federal de Pernambuco
 - 📫 Contact me on email: mvinic2011@gmail.com
@@ -13,6 +13,7 @@
      <img align="center" alt="MV-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div>
 
